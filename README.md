@@ -1,36 +1,6 @@
 # Computer-Architecture
 
-<!DOCTYPE html>
-<html>
-<title>Arya Varaste</title>
-
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<link rel="stylesheet" href="style.css">
-<link rel="stylesheet" href="">
-<link rel="icon" href="pt.png" sizes="192x192" />
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
-
-
-<style>
-  html,
-  body,
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    font-family: "Garamond", sans-serif
-  }
-
-  h1 {
-    font-family: "Freestyle Script", sans-serif;
+ly: "Freestyle Script", sans-serif;
     color: rgb(255, 255, 255);
     background-color: goldenrod;
     margin: 2%;
@@ -110,31 +80,6 @@
   }
 
   .telegram {
-    color: rgb(5, 155, 255)
-  }
-
-  .linkedin {
-    color: rgb(30, 43, 228)
-  }
-
-  .pinterest {
-    color: red;
-  }
-
-  .whatsapp {
-    color: green;
-  }
-
-  .SM {
-    size: 500px;
-  }
-
-  .CV {
-    color: rgb(255, 255, 255);
-    background-color: darkred;
-    margin: 0%;
-    padding: 0%;
-    border: 0ch;
   }
 
   .lang {
@@ -165,28 +110,7 @@
 <body class="w3-light-grey">
 
   <!-- Page Container -->
-  <div class="w3-content w3-margin-top" style="max-width:1400px;">
-
-    <!-- The Grid -->
-    <div class="w3-row-padding">
-
-      <!-- Left Column -->
-      <div class="w3-third">
-
-        <div class="w3-white   w3-card-4 w3-round-large">
-          <div class="w3-display-container ">
-            <img src="arya varaste.png" style="width:100% " class="myImage rounded Rotatea" alt="Avatar"></img>
-            <div class=" w3-container myName w3-round-large">
-              <h1 class "myName w3-hover-opacity ">Arya Varaste</h1>
-            </div>
-            <a href="Arya Varaste CV.pdf">
-              <img class=" icon1 w3-hover-opacity" src="cv.png"></img>
-            </a>
-            <a href="http://aut.ac.ir/aut/">
-              <img src="aut-logo.png" style="width:50% " class="myImage w3-hover-opacity" alt="Avatar"></img>
-            </a>
-            <a href="http://www.mecp.ir/index.aspx?siteid=18">
-              <img src="mofid.png" style="width:12% " class="myImage w3-hover-opacity" alt="Avatar"></img>
+  <div class="w3-content w3-margin-top" s="width:12% " class="myImage w3-hover-opacity" alt="Avatar"></img>
             </a>
             <a href="http://ceit.aut.ac.ir">
               <img src="ce.png" style="width:14% " class="myImage w3-hover-opacity" alt="Avatar"></img>
@@ -233,26 +157,7 @@
               <div class="slice ">
                 <div class="bar "></div>
                 <div class="fill "></div>
-              </div>
-            </div>
-
-            <div class=" c100 p65  w3-red  green
-                   progress-bar-animated    
-                   progress-bar-striped  ">
-              <span>Python</span>
-              <div class="slice ">
-                <div class="bar "></div>
-                <div class="fill "></div>
-              </div>
-            </div>
-
-            <div class=" c100 p60  w3-red  green
-            progress-bar-animated    
-            progress-bar-striped  ">
-              <span>Git</span>
-              <div class="slice ">
-                <div class="bar "></div>
-                <div class="fill "></div>
+              </div>v>
               </div>
             </div>
 
@@ -301,23 +206,7 @@
                       progress-bar-striped  ">
               <span>Verilog</span>
               <div class="slice ">
-                <div class="bar "></div>
-                <div class="fill "></div>
-              </div>
-            </div>
-
-            <div>
-              <div class=" c100 p0  w3-red  green 
-            progress-bar-animated    
-            progress-bar-striped  ">
-                <span>Html</span>
-                <div class="slice ">
-                  <div class="bar "></div>
-                  <div class="fill "></div>
-                </div>
-              </div>
-
-              <div class=" c100 p5  w3-red  green
+                <div class="bar "></div>d  green
            progress-bar-animated    
            progress-bar-striped  ">
                 <span>CSS</span>
@@ -349,22 +238,7 @@
               <b class="Title w3-hover-opacity">Languages</b>
               </b>
             </p>
-            <p>Persian</p>
-            <div class="w3-light-grey w3-round-xlarge">
-              <div class="w3-round-xlarge w3-green progress-bar-animated    
-            progress-bar-striped  w3-hover-opacity" style="height:24px;width:100%"></div>
-            </div>
-            <hr>
-            <p>English</p>
-            <div class="w3-light-grey w3-round-xlarge">
-              <div class="w3-round-xlarge w3-green w3-green progress-bar-animated    
-            progress-bar-striped  w3-hover-opacity" style="height:24px;width:85%"></div>
-            </div>
-            <hr>
-            <p>German</p>
-            <div class="w3-light-grey w3-round-xlarge">
-              <div class="w3-round-xlarge w3-green w3-green progress-bar-animated    
-            progress-bar-striped  w3-hover-opacity" style="height:24px;width:25%"></div>
+            <p>Persian</p>er-opacity" style="height:24px;width:25%"></div>
             </div>
             <hr>
             <p>Arabic</p>
@@ -407,20 +281,6 @@
         </div>
         <br>
 
-        <!-- End Left Column -->
-      </div>
-
-      <!-- Right Column -->
-      <div class="w3-twothird">
-
-
-        <div class="w3-container w3-card w3-white w3-margin-bottom w3-round-large">
-          <h2 class=" w3-padding-16">
-            <img class=" icon1 w3-hover-opacity" src="Education.png"></img>
-            <b class="Title"> Education</b>
-          </h2>
-          <div class="w3-container">
-            <h4 class="subTitle">
               <b>Amirkabir University of Technology, Tehran, Iran.</b>
             </h4>
             <h7 class="">
@@ -453,15 +313,7 @@
         <div class="w3-container w3-card w3-white w3-margin-bottom w3-round-large">
           <h2 class="w3-text-grey w3-padding-16">
             <img class=" icon1 w3-hover-opacity" src="Work Experience.png"></img>
-            <b class="Title">Work Experience</b>
-          </h2>
-          <div class="w3-container">
-            <h6 class="subTitle">
-              <b>Scientific Society of Electrical Engineering Department of Amirkabir University of Technology</b>
-            </h6>
-            <h6 class="era">
-              <i class="fa fa-calendar fa-fw w3-margin-right ii w3-hover-opacity"></i>[2016 -2017]
-              <!--<span class="w3-tag w3-teal w3-round">Current</span>-->
+            <b class="Title">Ww3-tag w3-teal w3-round">Current</span>-->
             </h6>
             <p></p>
             <hr>
@@ -496,13 +348,7 @@
             <img class=" icon1 w3-hover-opacity" src="PRESENTATIONS2.png"></img>
             <b class="Title">PRESENTATIONS</b>
           </h2>
-
-          <p class="lang">
-
-            IOT
-            <br> CPU Design
-            <br> SSD VS HDD
-            <br> Security on Wi-Fi Network
+Wi-Fi Network
             <br> Getting Started with Git
             <br> Malware
             <br> Dynamic Geometry
@@ -527,26 +373,7 @@
           </h2>
 
           <p class="lang">
-
-            CPU Design
-            <br> Pipeline on Processor
-            <br>
-
-          </p>
-          <hr>
-        </div>
-
-
-        <div class="w3-container w3-card w3-white w3-margin-bottom w3-round-large">
-          <h2 class=" w3-padding-16">
-            <img class=" icon1 w3-hover-opacity" src="HONORS AND AWARDS.png"></img>
-            <b class="Title">HONORS AND AWARDS</b>
-          </h2>
-
-          <p class="lang">
-            Reached the Second Round of National Chemistry Olympiad [2015]
-            <br> Reached the Second Round of National Literary Olympiad [2015]
-            <br> Second Place in the football Tournament in Tehran zone 1 [2010]
+in the football Tournament in Tehran zone 1 [2010]
             <br> Third Place in the football Tournament in Tehran zone 1 [2011] & [2014 C]
             <br> Selected as the Best Goalkeeper in the football Competition Tehran zone 1 [2014]
             <br> Selected as the most Tenacious student in high school
@@ -592,20 +419,7 @@
           </h2>
           <div class="lang">
             <p>
-              HamidReza Zarandi
-              <br> Associate Professor Computer Engineering and IT Department, Amirkabir University of Technology
-              <br> Email: h_zarandi@aut.ac.ir
-              <br>
-              <hr> Alireza Bagheri
-              <br> Assistant Professor Computer Engineering and IT Department, Amirkabir University of Technology
-              <br> Email: http://ceit.aut.ac.ir/~bagheri/
-              <br> ar_bagheri@aut.ac.ir
-              <br>
-              <hr> Hamid Reza Shahriari
-              <br> Assistant Professor Computer Engineering and IT Department, Amirkabir University of Technology
-              <br> Email: shahriari@aut.ac.ir
-              <br> http://ceit.aut.ac.ir/~hshahriari/
-              <br>
+              HamidReza Zaran
               <hr> Hamed Farbeh
               <br> Assistant Professor Computer Engineering and IT Department, Amirkabir University of Technology
               <br> Email: farbeh@aut.ac.ir
@@ -616,44 +430,7 @@
               <br> Email: nazerfard@aut.ac.ir
               <br> http://ceit.aut.ac.ir/~nazerfard/main.htm
               <br>
-            </p>
-            <hr>
-          </div>
-        </div>
-      </div>
-      <!-- End Right Column -->
-    </div>
-    <!-- End Grid -->
-  </div>
-  <!-- End Page Container -->
-  </div>
-  <footer class="w3-container footer w3-center w3-margin-top">
-    <h4>Find me on social media.</h4>
-    <a href="">
-      <i class="fa fa-facebook-official w3-hover-opacity facebook SM w3-xxxlarge">. </i>
-    </a>
-    <a href="https://www.instagram.com/aryavaraste/">
-      <i class="fa fa-instagram w3-hover-opacity  instagram SM w3-xxxlarge"> .</i>
-    </a>
-    <a href="https://t.me/PhoenixAIM54">
-      <i class="fa fa-telegram w3-hover-opacity telegram SM w3-xxxlarge">. </i>
-    </a>
-    <a href=""></a>
-    <i class="fa fa-pinterest-p w3-hover-opacity pinterest SM w3-xxxlarge">. </i>
-    </a>
-    <a href="https://github.com/varaste">
-      <i class="fa fa-github w3-hover-opacity github SM w3-xxxlarge"> .</i>
-    </a>
-    <a href="">
-      <i class="fa fa-twitter w3-hover-opacity twitter SM w3-xxxlarge">. </i>
-    </a>
-    <a href="">
-      <i class="fa fa-whatsapp w3-hover-opacity  whatsapp SM w3-xxxlarge">. </i>
-    </a>
-    <a href="">
-      <i class="fa fa-linkedin w3-hover-opacity linkedin SM w3-xxxlarge"> .</i>
-    </a>
-    <a href="">
+    <a href="https://www.instag
       <i class="fa fa-Google+  w3-hover-opacity Google+ SM "></i>
     </a>
     <p>Powered by
