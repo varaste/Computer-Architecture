@@ -44,30 +44,7 @@ ly: "Freestyle Script", sans-serif;
     margin: 1%;
     padding: 0%;
     border: 10px;
-    border-color: black;
-  }
-
-  .facebook {
-    color: rgba(62, 75, 253, 0.719)
-  }
-
-  .github {
-    color: black;
-  }
-
-  .instagram {
-    color: rgb(255, 0, 98);
-  }
-
-  .telegram {
-  }
-
-  .lang {
-    margin: 10px;
-    padding: 10px;
-  }
-
-  .icon1 {
+    border-color: bla
     width: 60px;
     height: 60px;
     padding: 0%;
@@ -138,24 +115,6 @@ ly: "Freestyle Script", sans-serif;
               </div>
             </div>
 
-            <div class=" c100 p85   w3-red  green
-                  progress-bar-animated    
-                  progress-bar-striped  ">
-              <span>FPGA</span>
-              <div class="slice ">
-                <div class="bar "></div>
-                <div class="fill "></div>
-              </div>
-            </div>
-
-            <div class=" c100 p60  w3-red  green
-                      progress-bar-animated    
-                      progress-bar-striped  ">
-              <span>Verilog</span>
-              <div class="slice ">
-                <div class="bar "></div>d  green
-           progress-bar-animated    
-           progress-bar-striped  ">
                 <span>CSS</span>
                 <div class="slice ">
                   <div class="bar "></div>
@@ -285,23 +244,6 @@ Wi-Fi Network
             <br> Cold War
             <br> Iran Vegetation
             <br> Badminton
-            <br> Training of the Auditory System in the General Anatomy of the Human Body
-            <br> Training of the Respiratory System in the general Anatomy of The Human Body
-            <br> To Promote Virtue and Prevent Vice
-            <br> Centralization
-            <br>
-          </p>
-          <hr>
-        </div>
-
-
-        <div class="w3-container w3-card w3-white w3-margin-bottom w3-round-large">
-          <h2 class=" w3-padding-16">
-            <img class=" icon1 w3-hover-opacity" src="PUBLICATIONS.png"></img>
-            <b class="Title">PUBLICATIONS:</b>
-          </h2>
-
-          <p class="lang">
 in the football Tournament in Tehran zone 1 [2010]
             <br> Third Place in the football Tournament in Tehran zone 1 [2011] & [2014 C]
             <br> Selected as the Best Goalkeeper in the football Competition Tehran zone 1 [2014]
