@@ -113,25 +113,7 @@ ly: "Freestyle Script", sans-serif;
   <div class="w3-content w3-margin-top" s="width:12% " class="myImage w3-hover-opacity" alt="Avatar"></img>
             </a>
             <a href="http://ceit.aut.ac.ir">
-              <img src="ce.png" style="width:14% " class="myImage w3-hover-opacity" alt="Avatar"></img>
-            </a>
-          </div>
-
-          <hr>
-          <div class="w3-container">
-            <p>
-              <i class="fa fa-briefcase fa-fw w3-margin-right w3-large ii w3-hover-opacity"></i>Student of Software Engineering</p>
-            <p>
-              <i class="fa fa-home fa-fw w3-margin-right w3-large ii w3-hover-opacity"></i>Tehran, IRAN</p>
-            <p>
-              <i class="fa fa-envelope fa-fw w3-margin-right w3-large ii w3-hover-opacity"></i>varaste@aut.ac.ir</p>
-            <p>
-              <i class="fa fa-envelope fa-fw w3-margin-right w3-large ii w3-hover-opacity"></i>a.varaste.n@gmail.com</p>
-            <p>
-              <i class="fa fa-phone fa-fw w3-margin-right w3-large ii w3-hover-opacity"></i>+98-936-740-5960</p>
-            <hr>
-
-            <p class="w3-large">
+              <img src="ce.png" style="width:14% " class="myImage w3-h
               <b>
                 <img class=" icon1 w3-hover-opacity" src="Skills.png"></img>
                 <b class="Title w3-hover-opacity">Skills</b>
@@ -218,14 +200,6 @@ ly: "Freestyle Script", sans-serif;
 
               <div class=" c100 p60  w3-red  green
           progress-bar-animated    
-          progress-bar-striped  ">
-                <span>JS</span>
-                <div class="slice ">
-                  <div class="bar "></div>
-                  <div class="fill "></div>
-                </div>
-              </div>
-            </div>
             <br>
           </div>
 
