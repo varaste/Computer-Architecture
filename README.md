@@ -13,20 +13,6 @@ ly: "Freestyle Script", sans-serif;
     color: gray;
   }
 
-  .clhr {
-    color: red;
-  }
-
-  .pBar {
-    color: red;
-  }
-
-
-  .myImage {
-    width: 90%;
-    padding: 0%;
-    margin-bottom: 0%;
-
   }
 
   .footer {
@@ -69,18 +55,6 @@ ly: "Freestyle Script", sans-serif;
               <b>
                 <img class=" icon1 w3-hover-opacity" src="Skills.png"></img>
                 <b class="Title w3-hover-opacity">Skills</b>
-              </b>
-            </p>
-           progress-bar-striped  ">
-              <span>JAVA</span>
-              <div class="slice ">
-                <div class="bar "></div>
-                <div class="fill "></div>
-              </div>v>
-              </div>
-            </div>
-
-            <div class=" c100 p25  w3-red  green
             progress-bar-animated    
             progress-bar-striped  ">
               <span>Bootstrap</span>
@@ -130,15 +104,6 @@ ly: "Freestyle Script", sans-serif;
               </b>
               <b class="Title w3-hover-opacity">Languages</b>
               </b>
-            </p>
-            <p>Persian</p>er-opacity" style="height:24px;width:25%"></div>
-            </div>
-            <hr>
-            <p>Arabic</p>
-            <div class="w3-light-grey w3-round-xlarge">
-              <div class="w3-round-xlarge w3-green  w3-green progress-bar-animated    
-            progress-bar-striped  w3-hover-opacity" style="height:24px;width:45%"></div>
-            </div>
             <br>
 
 
