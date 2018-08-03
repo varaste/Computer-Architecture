@@ -30,12 +30,7 @@ ly: "Freestyle Script", sans-serif;
   }
 
   .footer {
-    background-color: gold;
-  }
-
-  .twitter {
-    color: royalblue;
-  }
+    background-col
 
   .myName {
     font-family: "Times New Roman (Headings CS)", sans-serif;
