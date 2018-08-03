@@ -106,21 +106,6 @@ ly: "Freestyle Script", sans-serif;
               </b>
             <br>
 
-
-
-            <p class="w3-large w3-text-theme">
-              <b>
-                <img class=" icon1 w3-hover-opacity" src="OS.png"></img>
-              </b>
-              <b class="Title w3-hover-opacity"> OS</b>
-              </b>
-            </p>
-            <p>Windows</p>
-            <div class="w3-light-grey w3-round-xlarge">
-              <div class="w3-round-xlarge w3-red  progress-bar-animated    
-            progress-bar-striped  w3-hover-opacity" style="height:24px;width:100%"></div>
-            </div>
-            <hr>
             <p>Ubuntu</p>
             <div class="w3-light-grey w3-round-xlarge">
               <div class="w3-round-xlarge w3-red progress-bar-animated    
@@ -157,16 +142,6 @@ ly: "Freestyle Script", sans-serif;
           </div>
         </div>
 
-
-        <div class="w3-container w3-card w3-white w3-margin-bottom w3-round-large">
-          <h2 class="w3-text-grey w3-padding-16">
-            <img class=" icon1 w3-hover-opacity" src="Work Experience.png"></img>
-            <b class="Title">Ww3-tag w3-teal w3-round">Current</span>-->
-            </h6>
-            <p></p>
-            <hr>
-          </div>
-          <div class="w3-container">
             <h6 class="subTitle">
               <b>Computer Teacher Assistant ( Mofid - Roozbeh – Nikan ) High Schools</b>
             </h6>
@@ -222,15 +197,6 @@ in the football Tournament in Tehran zone 1 [2010]
           </h2>
           <p class="lang">
             Pipeline on Processor
-            <br> Dynamic Geometry
-            <br>
-          </p>
-          <hr>
-        </div>
-
-        <div class="w3-container w3-card w3-white w3-margin-bottom w3-round-large">
-          <h2 class=" w3-padding-16">
-            <img class=" icon1 w3-hover-opacity" src="HOBBIES.png"></img>
             <b class="Title">HOBBIES</b>
           </h2>
           <p class="lang">
@@ -247,14 +213,6 @@ in the football Tournament in Tehran zone 1 [2010]
           <h2 class=" w3-padding-16">
             <img class=" icon1 w3-hover-opacity" src="REFERENCES.png"></img>
             <b class="Title">REFERENCES</b>
-          </h2>
-          <div class="lang">
-            <p>
-              HamidReza Zaran
-              <hr> Hamed Farbeh
-              <br> Assistant Professor Computer Engineering and IT Department, Amirkabir University of Technology
-              <br> Email: farbeh@aut.ac.ir
-              <br> http://ceit.aut.ac.ir/~farbeh/
               <br>
               <hr> Ehsan Nazerfard
               <br> Assistant Professor Computer Engineering and IT Department, Amirkabir University of Technology
