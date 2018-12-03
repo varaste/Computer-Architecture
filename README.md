@@ -1,26 +1,6 @@
 # Computer-Architecture
 
-ly: "Freestyle Script", sans-serif;
-    color: rgb(255, 255, 255);
-    color: indianred;
-  }
-
-  .Title {
-    color: darkred;
-  }
-
-  .subTitle {
-    color: gray;
-  }
-
-  }
-
-  .footer {
-    background-col
-
-  .myName {
-    font-family: "Times New Roman (Headings CS)", sans-serif;
-    color: rgb(255, 255, 255);
+: rgb(255, 255, 255);
     background-color: goldenrod;
     margin: 1%;
     padding: 0%;
